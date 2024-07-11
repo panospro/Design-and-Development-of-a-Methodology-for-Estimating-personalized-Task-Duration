@@ -1,0 +1,12 @@
+newData.csv
+/node_modules
+/dataset
+/.vscode
+.env
+/test
+*.pyc
+*.txt
+*.json
+*.csv
+*.png
+*.pkl
